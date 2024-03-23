@@ -1,0 +1,10 @@
+Cleaning
+Feature Engineering
+Feature Transformation
+Encoding
+Scaling
+Target transformation
+Model Selectin
+Hyperparameter optimization
+Ensembling
+Feature selection
